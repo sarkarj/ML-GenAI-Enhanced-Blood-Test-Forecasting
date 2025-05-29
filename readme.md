@@ -99,8 +99,6 @@ scikit-learn>=1.3.0
 requests>=2.31.0
 python-dotenv>=1.0.0
 openpyxl>=3.1.0
-
-# Recommended
 prophet>=1.1.4      # For advanced time series forecasting
 statsmodels>=0.14.0 # For ARIMA models
 ```
@@ -108,6 +106,11 @@ statsmodels>=0.14.0 # For ARIMA models
 ### Launch Application
 ```bash
 streamlit run blood_test_dashboard_GenAI.py
+
+🐳 Build and Run with Docker Compose
+
+docker compose up -d --build
+
 ```
 
 ## 📋 Data Format
@@ -116,9 +119,7 @@ Your Excel file should contain these columns:
 
 | Date | Hemoglobin g/dL 12.0 - 15.0 | RBC Count mill/cmm 3.80 - 4.80 | Leukocyte Count (TLC/WBC) /cumm 4.00 - 10.00 | Platelet Count Lakh/Cumm 1.50 - 4.5 |
 |------|------------------------------|----------------------------------|-----------------------------------------------|--------------------------------------|
-| 2025-05-23 | 9.7 | 2.67 | 4.29 | 0.75 |
-| 2025-05-04 | 8.3 | 2.32 | 2.29 | 0.92 |
-| 2025-04-21 | 8.6 | 2.39 | 3.02 | 1.52 |
+| 2025-05-23 | 12.0 | 3.80 | 4.00 | 1.50 |
 
 **Requirements:**
 - Minimum 4 data points per parameter
