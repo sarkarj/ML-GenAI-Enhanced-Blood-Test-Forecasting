@@ -218,12 +218,6 @@ We welcome contributions! Please see our contributing guidelines for:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📞 Support
-
-- **Issues**: GitHub Issues tracker
-- **Documentation**: Wiki section
-- **Medical Queries**: Consult healthcare professionals
-- **Technical Support**: Create detailed issue reports
 
 ---
 
