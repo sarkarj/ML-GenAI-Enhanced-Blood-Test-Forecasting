@@ -11,6 +11,8 @@
 
 An advanced medical forecasting application that combines traditional Machine Learning with Generative AI to predict blood test parameter trends. The system provides intelligent clinical insights, risk assessment, and personalized recommendations for healthcare monitoring.
 
+![App Screenshot](ApplicationView.png)
+
 ### Key Innovation
 - **Hybrid AI Architecture**: ML models for base predictions + GenAI for clinical enhancement
 - **Smart Model Selection**: AI-powered selection of optimal forecasting methods
