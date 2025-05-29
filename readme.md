@@ -211,7 +211,6 @@ strategy = optimizer.optimize_forecast_strategy(data, param_info)
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our contributing guidelines for:
 - Code style requirements
 - Testing procedures
 - Medical validation processes
