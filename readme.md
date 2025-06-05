@@ -211,13 +211,6 @@ strategy = optimizer.optimize_forecast_strategy(data, param_info)
 - [ ] Multi-parameter correlation analysis
 - [ ] Seasonal pattern recognition
 
-## 🤝 Contributing
-
-- Code style requirements
-- Testing procedures
-- Medical validation processes
-- Documentation standards
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
