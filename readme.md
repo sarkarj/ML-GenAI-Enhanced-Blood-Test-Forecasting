@@ -197,7 +197,7 @@ strategy = optimizer.optimize_forecast_strategy(data, param_info)
 
 ## 🚧 Development Roadmap
 
-### Planned Enhancements
+### Possible Enhancements
 - [ ] Backtesting and cross-validation metrics
 - [ ] Integration with electronic health records
 - [ ] Mobile-responsive interface
@@ -219,3 +219,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Built with ❤️ for better healthcare outcomes through AI innovation**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)]() [![Email](https://img.shields.io/badge/Email-Contact-red.svg)]()
+
