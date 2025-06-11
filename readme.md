@@ -6,7 +6,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red.svg)](https://streamlit.io)
 [![AI](https://img.shields.io/badge/AI-Enhanced-green.svg)]()
 [![GenAI](https://img.shields.io/badge/GenAI-Powered-purple.svg)]()
-[![Architecture](https://img.shields.io/badge/Architecture-Hybrid%20AI-blue.svg)](https://learn.microsoft.com/en-us/azure/architecture/hybrid/hybrid-start-here) [![ML](https://img.shields.io/badge/ML-Algorithm-green.svg)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Architecture](https://img.shields.io/badge/Architecture-Hybrid%20AI-blue.svg)](https://learn.microsoft.com/en-us/azure/architecture/hybrid/hybrid-start-here) [![ML](https://img.shields.io/badge/ML-Algorithm-green.svg)](https://en.wikipedia.org/wiki/Machine_learning) [![AI](https://img.shields.io/badge/AI-Forecasting-green.svg)](https://facebook.github.io/prophet/) [![Meta](https://img.shields.io/badge/Meta-Prophet%20Model-blue.svg)](https://facebook.github.io/prophet/)
 
 ## 🌟 Overview
 
